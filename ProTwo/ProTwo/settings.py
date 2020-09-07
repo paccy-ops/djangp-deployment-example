@@ -26,7 +26,7 @@ SECRET_KEY = 'hyn$%tcx!jee77ietpc$=ac$8=@)1-%d_(2&+7@eh6gtt2(03n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['paccy.pythonanywhere.com',]
+ALLOWED_HOSTS = []
 
 
 # Application definition
